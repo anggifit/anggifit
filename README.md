@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://personal-portafolio-pi.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4dfac3d7-7e87-4c34-9837-a0ef7bd22328" alt="my banner">    </a>
-</p>
+  <a href="https://personal-portafolio-pi.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/144886f0-1d13-4c22-80c6-063450674441" alt="my banner">    </a>
 
+</p>
 
 # Hi, I'm Anggi! 👋
 👩‍💻 I'm currently working on enhancing my QA skills with Basetis.
